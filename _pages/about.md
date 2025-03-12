@@ -17,42 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master student in Computer Technology at ZJU-UIUC Institute, Zhejiang University, advised by [Prof. Gaoang Wang](https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao). Previously, I was fortunate to study at University of Illinois Urbana Champaign (UIUC) for six months as a Visiting Student and worked with [Prof. Katherine Rose Driggs-Campbell](https://krdc.web.illinois.edu/). Earlier, I received my Bachelor degree in Applied Physics from Huazhong University of Science and Technology (HUST) in 2023, advised by [Prof. Xiaosong Zhu](https://scholar.google.com/citations?user=nxxAXrEAAAAJ&hl=en&oi=ao).
+I am a second-year Master student in Computer Technology at ZJU-UIUC Institute, Zhejiang University, advised by <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Gaoang Wang</a>. Previously, I was fortunate to study at University of Illinois Urbana Champaign (UIUC) for six months as a Visiting Student and worked with <a href="https://krdc.web.illinois.edu/" target="_blank" style="text-decoration: none">Katherine Rose Driggs-Campbell</a>. Earlier, I received my Bachelor degree in Applied Physics from Huazhong University of Science and Technology (HUST) in 2023, advised by <a href="https://scholar.google.com/citations?user=nxxAXrEAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Xiaosong Zhu</a>.
 
-My research interest includes, .My long-term goal for is. I
+My research interest includes *Task and Motion Planning*, *Human-Robot Interaction* and *Embodied AI*. My long-term goal is to **develop intelligent household robots that can effectively integrate into daily lives, bring convenience to people's lives and coexist harmoniously with humanity**. For this year, I'm preparing for the <span style="color: red;">Robotics PhD application in 26 Fall</span>. If you are interested in my work or would like to connect, feel free to mail me!
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our work is available now! 
+- *2025.03*: &nbsp;🎉🎉 Our work <a href="http://your-link-here" target="_blank" style="text-decoration: none;">EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments</a> is available now!
+
 - *2024.08*: &nbsp;🎉🎉 I began my research internship at <b>UIUC, Champaign, USA</b>. Advised by <a href="https://krdc.web.illinois.edu/" target="_blank" style="text-decoration: none">Katherine Rose Driggs-Campbell</a>.
 - *2023.09.06*: &nbsp;🎉🎉 I joined <a href="https://cvnext.github.io/" target="_blank" style="text-decoration: none">CVNext Lab</a>, advised by <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Gaoang Wang</a>, and began my new career in Computer Science. Coincidentally, this day was also my birthday!
 
 # 📝 Publications 
 Equal contribution \*. Project lead <sup>&dagger;</sup>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Near Completion</div><img src="images/conflict_demo.jpg" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Anomaly Detection in Daily Task Plannings**
 
-**Dongping Li\***, Shaoting Peng\*, Shuijing Liu, Katherine Rose Driggs-Campbell
+<!-- **Dongping Li\***, Shaoting Peng\*, Shuijing Liu, Katherine Rose Driggs-Campbell -->
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) -->
+- Facilitate the integration of household robots into daily life. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/emmoe_page.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments**
 
 **Dongping Li\*<sup>&dagger;</sup>**, Tielong Cai\*, Tianci Tang\*, Wenhao Chai, Katherine Rose Driggs-Campbell, Gaoang Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://silence143.github.io/emmoe.github.io/)
+[**Paper**](https://arxiv.org/abs/2503.08604)
+[**Code**](https://github.com/silence143/EMMOE)
+- Autonomous household robots driven by user instructions. 
 </div>
 </div>
 
