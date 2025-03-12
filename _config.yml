@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dongping Li"
-description              : "Personal Homepage"
+description              : "Focusing on intelligent and autonomous household robots."
 repository               : "silence143/silence143.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dongpong Li"
   avatar           : "images/avatar.png"
-  bio              : "tbd"
+  bio              : "Master Student"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
