@@ -23,18 +23,20 @@ My research interest includes *Task and Motion Planning*, *Human-Robot Interacti
 
 # 🔥 News
 
+- *2025.05*: &nbsp;🎉🎉 I began my research internship at <b>Qizhi Institute, Shanghai</b>. Advised by <a href="https://ericyi.github.io/" target="_blank" style="text-decoration: none">Yi Li</a>.
+
 - *2025.03*: &nbsp;🎉🎉 Our work <a href="https://silence143.github.io/emmoe.github.io/" target="_blank" style="text-decoration: none;">EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments</a> is available now!
 
 - *2024.08*: &nbsp;🎉🎉 I began my research internship at <b>UIUC, Champaign, USA</b>. Advised by <a href="https://krdc.web.illinois.edu/" target="_blank" style="text-decoration: none">Katherine Rose Driggs-Campbell</a>.
-- *2023.09.06*: &nbsp;🎉🎉 I joined <a href="https://cvnext.github.io/" target="_blank" style="text-decoration: none">CVNext Lab</a>, advised by <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Gaoang Wang</a>, and began my new career in Computer Science. Coincidentally, this day was also my birthday!
+- *2023.09.06*: &nbsp;🎉🎉 I joined <a href="https://cvnext.github.io/" target="_blank" style="text-decoration: none">CVNext Lab</a>, advised by <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Gaoang Wang</a>, and formally transfer my career from Physics to Computer Science. Coincidentally, this day was also my birthday!
 
 # 📝 Publications
 
 Equal contribution \*. Project lead <sup>&dagger;</sup>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Near Completion</div><img src="images/conflict_demo.jpg" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On-going Project</div><img src="images/conflict_demo.jpg" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Anomaly Detection in Real-Life Task Executions**
+**A System for Human-Robot Conflicts at Home Environments**
 
 <!-- **Dongping Li\***, Shaoting Peng\*, Shuijing Liu, Katherine Rose Driggs-Campbell -->
 
@@ -55,7 +57,10 @@ Equal contribution \*. Project lead <sup>&dagger;</sup>
 
 [**Project**](https://silence143.github.io/emmoe.github.io/)
 [**Paper**](https://arxiv.org/abs/2503.08604)
+[**Video**](https://www.youtube.com/watch?v=wYnjsRY2SXs)
 [**Code**](https://github.com/silence143/EMMOE)
+[**Model**](https://huggingface.co/collections/Dongping-Li/emmoe-dataset-and-model-67c6b04da2b83b08ec273ef2)
+[**Dataset**](https://huggingface.co/datasets/Dongping-Li/EMMOE-100)
 
 - Autonomous household robots driven by user instructions.
 
@@ -83,6 +88,15 @@ Equal contribution \*. Project lead <sup>&dagger;</sup>
 </div>
 
 # 💻 Experiences
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="images/qizhi.jpg" width="10%" style="margin-right: 15px;">
+  <div>
+    <b style="font-size: 16px;"> <a href="https://ericyi.github.io/" target="_blank" style="text-decoration: none">3DVICI Lab</a>, Shanghai Qizhi Institute</b><br>
+    <em>Research Intern (2025.05 – present)</em><br>
+    <b>Mentor:</b> <a href="https://ericyi.github.io/" target="_blank" style="text-decoration: none">Li Yi</a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="images/hcal.png" width="10%" style="margin-right: 15px;">
