@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year Master student in Computer Technology at ZJU-UIUC Institute, Zhejiang University, advised by <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Gaoang Wang</a>. Previously, I was fortunate to study at University of Illinois Urbana Champaign (UIUC) for six months as a Visiting Student and worked with <a href="https://krdc.web.illinois.edu/" target="_blank" style="text-decoration: none">Katherine Rose Driggs-Campbell</a>. Earlier, I received my Bachelor degree in Applied Physics from Huazhong University of Science and Technology (HUST) in 2023, advised by <a href="https://scholar.google.com/citations?user=nxxAXrEAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none">Xiaosong Zhu</a>.
 
-My research interest includes *Task and Motion Planning*, *Human-Robot Interaction* and *Embodied AI*. My long-term goal is to **develop intelligent household robots that can effectively integrate into daily lives, bring convenience to people's lives and coexist harmoniously with humanity**. For this year, I'm preparing for the <span style="color: red;">Robotics PhD application in 26 Fall</span>. If you are interested in my work or would like to connect, feel free to mail me!
+My research interest includes *Human-Robot Interaction* *Assitive Robots* and *Embodied AI*. My long-term goal is to **develop intelligent household robots that can effectively integrate into daily lives, bring convenience to people's lives and coexist harmoniously with humanity**. If you are interested in my work or would like to talk about household robots, feel free to mail me!
 
 # 🔥 News
 
@@ -36,7 +36,7 @@ Equal contribution \*. Project lead <sup>&dagger;</sup>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">On-going Project</div><img src="images/conflict_demo.jpg" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A System for Human-Robot Conflicts at Home Environments**
+**A Human-Robot Conflict-Aware System for Mobile Manipulation in Everyday Tasks**
 
 <!-- **Dongping Li\***, Shaoting Peng\*, Shuijing Liu, Katherine Rose Driggs-Campbell -->
 
@@ -57,10 +57,10 @@ Equal contribution \*. Project lead <sup>&dagger;</sup>
 
 [**Project**](https://silence143.github.io/emmoe.github.io/)
 [**Paper**](https://arxiv.org/abs/2503.08604)
-[**Video**](https://www.youtube.com/watch?v=wYnjsRY2SXs)
 [**Code**](https://github.com/silence143/EMMOE)
 [**Model**](https://huggingface.co/collections/Dongping-Li/emmoe-dataset-and-model-67c6b04da2b83b08ec273ef2)
 [**Dataset**](https://huggingface.co/datasets/Dongping-Li/EMMOE-100)
+[**Video**](https://www.youtube.com/watch?v=wYnjsRY2SXs)
 
 - Autonomous household robots driven by user instructions.
 
